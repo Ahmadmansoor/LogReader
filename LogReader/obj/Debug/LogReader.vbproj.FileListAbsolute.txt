@@ -1,0 +1,12 @@
+D:\Code\LogReader\LogReader\obj\Debug\LogReader.vbprojAssemblyReference.cache
+D:\Code\LogReader\LogReader\obj\Debug\LogReader.Form1.resources
+D:\Code\LogReader\LogReader\obj\Debug\LogReader.Resources.resources
+D:\Code\LogReader\LogReader\obj\Debug\LogReader.vbproj.GenerateResource.cache
+D:\Code\LogReader\LogReader\obj\Debug\LogReader.vbproj.CoreCompileInputs.cache
+D:\Code\LogReader\LogReader\bin\Debug\LogReader.exe.config
+D:\Code\LogReader\LogReader\bin\Debug\LogReader.exe
+D:\Code\LogReader\LogReader\bin\Debug\LogReader.pdb
+D:\Code\LogReader\LogReader\bin\Debug\LogReader.xml
+D:\Code\LogReader\LogReader\obj\Debug\LogReader.exe
+D:\Code\LogReader\LogReader\obj\Debug\LogReader.xml
+D:\Code\LogReader\LogReader\obj\Debug\LogReader.pdb
